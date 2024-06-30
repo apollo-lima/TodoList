@@ -13,6 +13,7 @@
 		7E3B1EB12C2F6D2C002D24B6 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E3B1EB02C2F6D2C002D24B6 /* ListView.swift */; };
 		7E3B1EB32C2F6E48002D24B6 /* ListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E3B1EB22C2F6E48002D24B6 /* ListRowView.swift */; };
 		7E3B1EB52C2F72F4002D24B6 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E3B1EB42C2F72F4002D24B6 /* AddView.swift */; };
+		7E4C98FA2C31E96A006542D2 /* NoItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E4C98F92C31E96A006542D2 /* NoItemsView.swift */; };
 		7E57A8CC2C30879900A7B1DB /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E57A8CB2C30879900A7B1DB /* ItemModel.swift */; };
 		7E8ACDC12C30A1B10061EC51 /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E8ACDC02C30A1B10061EC51 /* ListViewModel.swift */; };
 /* End PBXBuildFile section */
@@ -25,6 +26,7 @@
 		7E3B1EB02C2F6D2C002D24B6 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		7E3B1EB22C2F6E48002D24B6 /* ListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListRowView.swift; sourceTree = "<group>"; };
 		7E3B1EB42C2F72F4002D24B6 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
+		7E4C98F92C31E96A006542D2 /* NoItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoItemsView.swift; sourceTree = "<group>"; };
 		7E57A8CB2C30879900A7B1DB /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
 		7E8ACDC02C30A1B10061EC51 /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -83,6 +85,7 @@
 				7E3B1EB02C2F6D2C002D24B6 /* ListView.swift */,
 				7E3B1EB22C2F6E48002D24B6 /* ListRowView.swift */,
 				7E3B1EB42C2F72F4002D24B6 /* AddView.swift */,
+				7E4C98F92C31E96A006542D2 /* NoItemsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 				7E8ACDC12C30A1B10061EC51 /* ListViewModel.swift in Sources */,
 				7E3B1E9F2C2F6C7B002D24B6 /* TodoListApp.swift in Sources */,
 				7E3B1EB12C2F6D2C002D24B6 /* ListView.swift in Sources */,
+				7E4C98FA2C31E96A006542D2 /* NoItemsView.swift in Sources */,
 				7E3B1EB32C2F6E48002D24B6 /* ListRowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
